@@ -12,3 +12,4 @@ NOTA: El programa se encuentra comprimido en .zip debido a que es un proyecto en
 ![Error al cargar el GIF](https://github.com/JoseAntSA/Recuperar_Patrones/blob/main/Assets/RecPatron_GIF_3.gif)
 
 ![Error al cargar el GIF](https://github.com/JoseAntSA/Recuperar_Patrones/blob/main/Assets/RecPatron_GIF_4.gif)
+
